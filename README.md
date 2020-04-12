@@ -1,27 +1,34 @@
-# KBS-Project
-# Research Question
+# Predicting Rainfall in Australia
 
-Whether it will rain tomorrow or not. Based on the predictions, people will plan their activities accordingly.
+## Group Members
+* Hanumasri Bollepalli
+* Madhuri Pawle
+* Pavanitha Jampala
 
-# SOURCE & DOMAIN
+## Research Question
+
+The main aim of the project will be to predict if it will rain or not. There are 24 columns in the dataset, we will pre-process the data and visualize the data to find out how each column like pressure, temperarure, humidity etc effects the target column "RainTomorrow".
+
+## Source & Domain
 
 Domain: Weather forecasting. Precisely to predict whether it will rain tomorrow or not?
 
 Source: The dataset is available on Kaggle and the link to the dataset is https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
-# TARGET AUDIENCE
+## Target Audience
 
-The target audience would be the general public of the respective areas and would help them to tackle the problems related to the domains.
+The target audience would be the general public of respective areas in Australia.
 
-# PREPROCESSING
+## Data Preprocessing
 
 The data cleaning steps that we are going to follow are :
 * Handle NULL values
 * Make sure the datatypes are same
 * Handle duplicate data
 * Handle missing data
+* Handle Categorical data
 
-# TENTATIVE PLAN
+## Tentative Plan
 
 * EDA and Preprocessing
 * Dashboard for User group, Dashboard for Data Engineers
