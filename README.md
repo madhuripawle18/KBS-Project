@@ -13,19 +13,17 @@ The main aim of the project will be to predict if it will rain or not. There are
 
 Domain: Weather forecasting. Precisely to predict whether it will rain tomorrow or not?
 
-Source: The dataset is available on Kaggle and the link to the dataset is https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+Source: Kaggle, https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
 ## Target Audience
 
-The target audience would be the general public of respective areas in Australia.
+The target audience would be the general public of respective areas in Australia. The dataset consists of 49 locations so people living in those 49 locations can have the benifit of knowing if it will rain the next day or not and plan their day accordingly.
 
 ## Data Preprocessing
 
 The data cleaning steps that we are going to follow are :
-* Handle NULL values
-* Make sure the datatypes are same
-* Handle duplicate data
-* Handle missing data
+* Make sure the datatypes are correct
+* Handle missing values/NULL values
 * Handle Categorical data
 
 ## Tentative Plan
