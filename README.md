@@ -11,9 +11,11 @@ The main aim of the project will be to predict if it will rain or not. There are
 
 ## Source & Domain
 
-Domain: Weather forecasting. Precisely to predict whether it will rain tomorrow or not?
+* Domain: Weather forecasting. Precisely to predict whether it will rain tomorrow or not?
 
-Source: Kaggle, https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+* Source: Kaggle, https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
+
+* We stored the data on BigQuery in Google Cloud Platform.
 
 ## Target Audience
 
