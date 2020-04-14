@@ -24,13 +24,15 @@ The target audience would be the general public of respective areas in Australia
 ## Data Preprocessing
 
 The data cleaning steps that we are going to follow are :
-* Make sure the datatypes are correct
-* Handle missing values/NULL values
-* Handle Categorical data
+* Make sure the datatypes are correct.
+* Replace missing numerical values with Median of the column.
+* Handle outlier using top-coding approach.
+* Replace missing categorical data with the most frequent label.
+* Encode Categorical data using One Hot Encoding as Logistic Regression cannot handle categorical data.
 
 ## Tentative Plan
 
-* EDA and Preprocessing
+* Exploratory Data Analysis and Preprocessing
 * Dashboard for User group, Dashboard for Data Engineers
 * GCP further processing - ML
 * Evaluation of results
