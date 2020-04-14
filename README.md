@@ -32,9 +32,10 @@ The data cleaning steps that we are going to follow are :
 
 ## Tentative Plan
 
-* Exploratory Data Analysis and Preprocessing
+* Load Data onto BigQuery
+* Exploratory Data Analysis and Data Preprocessing using AI Platform
 * Dashboard for User group, Dashboard for Data Engineers
-* GCP further processing - ML
-* Evaluation of results
+* Apply Logistic Regression Model on the dataset.
+* Evaluation of Results
 * Steps for production model
 * Final Dashboard for User Group
