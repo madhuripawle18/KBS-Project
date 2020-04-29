@@ -7,7 +7,7 @@
 
 ## Research Question
 
-The main aim of the project will be to predict if it will rain or not. There are 24 columns in the dataset, we will pre-process the data and visualize the data to find out how each column like pressure, temperarure, humidity etc effects the target column "RainTomorrow".
+Exploratory data analysis will be used to visualize imporant trends in the data. EDA will also provide input into the need for feature pre-processing such as dimensionality reduction, null handling and feature scaling. The pre-processed data (pertinent features) will be used to analyze the research question: Will it rain tomorrow?
 
 ## Source & Domain
 
