@@ -15,7 +15,15 @@ Exploratory data analysis will be used to visualize imporant trends in the data.
 
 * Source: Kaggle, https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
-* We stored the data on BigQuery in Google Cloud Platform.
+## About the Dataset
+
+* This dataset contains about 10 years of daily weather observations from numerous Australian weather stations.
+
+* It consists of 24 columns and 142193 rows. It has numerical, categorical and boolean data.
+
+* It is an unbalanced dataset, as the target column RainTomorrow has 110316 "No" entries and 31877 "Yes" entries.
+
+* The columns that effect the RainTomorrow column the most are Humidity3pm and Cloud3pm. 
 
 ## Target Audience
 
@@ -25,9 +33,9 @@ The target audience would be the general public of respective areas in Australia
 
 The data cleaning steps that we are going to follow are :
 * Make sure the datatypes are correct.
-* Replace missing numerical values with Median of the column.
+* Drop the columns that have less than 60% of data.
+* Drop rows that consist of missing values in any of the columns.
 * Handle outlier using top-coding approach.
-* Replace missing categorical data with the most frequent label.
 * Encode Categorical data using One Hot Encoding as Logistic Regression cannot handle categorical data.
 
 ## Tentative Plan
@@ -36,6 +44,6 @@ The data cleaning steps that we are going to follow are :
 * Exploratory Data Analysis and Data Preprocessing using AI Platform
 * Dashboard for User group, Dashboard for Data Engineers
 * Apply Logistic Regression Model on the dataset.
-* Evaluation of Results
+* Evaluation of Results using confusion matrix, precision, recall and f1-score
 * Steps for production model
 * Final Dashboard for User Group
