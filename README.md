@@ -48,10 +48,13 @@ After observing the column in the dataset and their importance in order to predi
 ### Exploratory Data Analysis and Data Preprocessing using AI Platform
 This part of the project will involve visualizing the dataset based on different features from the dataset.Creating graphs that analyze the importance of the columns.Distribution graph inferes observation on different locations according to the dataset. 
 
+**The below image shows the correlation between each variable in the Australian Weather Dataset**
 ![Image of Heatmap.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Heatmap.png)
 
+**The below image shows the correlation between numerical variables in the Australian Weather Dataset**
 ![Image of Pairplot.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Pairplot.png)
 
+**The below image shows the boxplots used to detect outliers in the Australian Weather Dataset**
 ![Image of Boxplot_to_detect_Outliers.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Checking%20for%20Outliers.png)
 
 ### Dashboard for User group, Dashboard for Data Engineers
@@ -64,6 +67,8 @@ Creating Logistic Regression model and running the model on the dataset help to 
 ![Model Data in BigQuery 2.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20in%20BigQuery%202.png)
 
 ### Evaluation of results using confusion matrix, precision, recall and f1-score
+
+![Evaluate Model.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Evaluate%20Model.png)
 
 ### Steps for production model
 The dataset will be read using BigQuery, then for every record, model prediction will be carried out, and the results are written back to BigQuery.
