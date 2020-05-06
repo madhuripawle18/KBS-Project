@@ -18,7 +18,6 @@
 - Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
 - Worked on the documentation.
 - Worked on the presentation.
-
 ## Research Question
 
 Exploratory data analysis (EDA) will be used to visualize imporant trends in the data. EDA will also provide input into the need for feature pre-processing such as dimensionality reduction, null handling and feature scaling. The pre-processed data (pertinent features) will be used to analyze the research question: Will it rain tomorrow?
