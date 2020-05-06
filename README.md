@@ -85,19 +85,19 @@ Creating Logistic Regression model and running the model on the dataset help to 
 
 ## Team Member Duties
 
-* Madhuri Pawle: 
+**Madhuri Pawle:** 
 - Loaded the data into BigQuery
 - Worked on Data Pre-processing
 - Trained Logistic Regression model
 - Evaluated the model.
 
-* Hanumasri Bollepalli : 
+**Hanumasri Bollepalli:** 
 - Worked on Data Pre-processing
 - Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
 - Worked on the documentation.
 - Worked on the presentation.
 
-* Pavanitha Jampala : 
+**Pavanitha Jampala:** 
 - Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
 - Worked on the documentation.
 - Worked on the presentation.
