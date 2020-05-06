@@ -63,12 +63,12 @@ Dashboard for user consists of basic graph that depicts rain fall prediction by 
 ### Apply Logistic Regression Model on the dataset.
 Creating Logistic Regression model and running the model on the dataset help to predict the output variable with high accuracy.
 
-![Model in BigQuery 1.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20In%20BigQuery%201.png)
-![Model Data in BigQuery 2.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20in%20BigQuery%202.png)
+![Model in BigQuery 1.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%201.png)
+![Model Data in BigQuery 2.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%202.png)
 
 ### Evaluation of results using confusion matrix, precision, recall and f1-score
 
-![Evaluate Model.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Evaluate%20Model.png)
+![Evaluate Model.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20Evaluation.png)
 
 ### Steps for production model
 The dataset will be read using BigQuery, then for every record, model prediction will be carried out, and the results are written back to BigQuery.
@@ -83,6 +83,7 @@ The final dashboard will consist of predicted data in form of a graph and it wil
 * A. Omary, A. Wedyan, A. Zghoul, A. Banihani and I. Alsmadi, "An interactive predictive system for weather forecasting," 2012 International Conference on Computer, Information and Telecommunication Systems (CITS), Amman, 2012, pp. 1-4.
 
 * P. C. Reddy and A. S. Babu, "Survey on weather prediction using big data analystics," 2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT), Coimbatore, 2017, pp. 1-6.
+
 # Team Member Duties
 * Madhuri Pawle: Worked on Data Pre-processing after dealing with issues noticed in former processed data,Applied Machine learning models and Loaded the data into BigQuery and created the model. Also created Final dashboard and Visualizations, updated changes to git repository and presentation.
 
