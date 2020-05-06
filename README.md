@@ -87,5 +87,5 @@ Creating Logistic Regression model and running the model on the dataset help to 
 
 * Madhuri Pawle: Worked on Data Pre-processing after dealing with issues noticed in former processed data,Applied Machine learning models and Loaded the data into BigQuery and created the model. Also created Final dashboard and Visualizations, updated changes to git repository and presentation.
 
-* Hanumasri Bollepalli : Worked on Data Pre-processing, researched all the qwicklabs and reference papers to get an overview of working with BigQuery using Machine Learning models and evaluated the Machine Learning model and Predicting the model.Updated git repository, read.me file. Worked on Documentation and presentation.
+* Hanumasri Bollepalli : Worked on Data Pre-processing, researched all the qwicklabs and reference papers to get an overview of working with BigQuery using Machine Learning models and evaluated the Machine Learning model and Predicting the model.Updated git repository, read.me file and presentation.
 
