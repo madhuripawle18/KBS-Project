@@ -1,9 +1,23 @@
 # Predicting Rainfall in Australia
 
-## Group Members
-* Hanumasri Bollepalli
-* Madhuri Pawle
-* Pavanitha Jampala
+## Group Member Duties
+
+**Madhuri Pawle:** 
+- Loaded the data into BigQuery
+- Worked on Data Pre-processing
+- Trained Logistic Regression model
+- Evaluated the model.
+
+**Hanumasri Bollepalli:** 
+- Worked on Data Pre-processing
+- Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
+- Worked on the documentation.
+- Worked on the presentation.
+
+**Pavanitha Jampala:** 
+- Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
+- Worked on the documentation.
+- Worked on the presentation.
 
 ## Research Question
 
@@ -81,23 +95,4 @@ Creating Logistic Regression model and running the model on the dataset help to 
 * A. Omary, A. Wedyan, A. Zghoul, A. Banihani and I. Alsmadi, "An interactive predictive system for weather forecasting," 2012 International Conference on Computer, Information and Telecommunication Systems (CITS), Amman, 2012, pp. 1-4.
 
 * P. C. Reddy and A. S. Babu, "Survey on weather prediction using big data analystics," 2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT), Coimbatore, 2017, pp. 1-6.
-
-## Team Member Duties
-
-**Madhuri Pawle:** 
-- Loaded the data into BigQuery
-- Worked on Data Pre-processing
-- Trained Logistic Regression model
-- Evaluated the model.
-
-**Hanumasri Bollepalli:** 
-- Worked on Data Pre-processing
-- Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
-- Worked on the documentation.
-- Worked on the presentation.
-
-**Pavanitha Jampala:** 
-- Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
-- Worked on the documentation.
-- Worked on the presentation.
 
