@@ -1,6 +1,6 @@
 # Predicting Rainfall in Australia
 
-## Group Member Duties
+## Group Members and their duties
 
 **Madhuri Pawle:** 
 - Loaded the data into BigQuery
