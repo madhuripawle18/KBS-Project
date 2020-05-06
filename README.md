@@ -83,7 +83,7 @@ Creating Logistic Regression model and running the model on the dataset help to 
 
 ![Predictions.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Predicting%20Using%20Model.png)
 
-### Evaluation of results using  accuracy, precision, recall f1-score and roc curve
+### Evaluation of results using  accuracy, precision, recall, f1-score and roc curve
 
 ![Evaluate Model.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20Evaluation.png)
 
