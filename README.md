@@ -1,21 +1,21 @@
 # Predicting Rainfall in Australia
 
-## Group Members
+# Group Members
 * Hanumasri Bollepalli
 * Madhuri Pawle
 * Pavanitha Jampala
 
-## Research Question
+# Research Question
 
 Exploratory data analysis will be used to visualize imporant trends in the data. EDA will also provide input into the need for feature pre-processing such as dimensionality reduction, null handling and feature scaling. The pre-processed data (pertinent features) will be used to analyze the research question: Will it rain tomorrow?
 
-## Source & Domain
+# Source & Domain
 
 * Domain: Weather forecasting. Precisely to predict whether it will rain tomorrow or not?
 
 * Source: Kaggle, https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
-## About the Dataset
+# About the Dataset
 
 * This dataset contains about 10 years of daily weather observations from numerous Australian weather stations.
 
@@ -25,11 +25,11 @@ Exploratory data analysis will be used to visualize imporant trends in the data.
 
 * The columns that effect the RainTomorrow column the most are Humidity3pm and Cloud3pm. 
 
-## Target Audience
+# Target Audience
 
 The target audience would be the general public of respective areas in Australia. The dataset consists of 49 locations so people living in those 49 locations can have the benifit of knowing if it will rain the next day or not and plan their day accordingly.
 
-## Data Preprocessing
+# Data Preprocessing
 
 The data cleaning steps that we are going to follow are :
 * Make sure the datatypes are correct.
@@ -38,25 +38,25 @@ The data cleaning steps that we are going to follow are :
 * Handle outlier using top-coding approach.
 * Encode Categorical data using One Hot Encoding as Logistic Regression cannot handle categorical data.
 
-## Tentative Plan
+# Tentative Plan
 
-# Load data onto BigQuery
+## Load data onto BigQuery
 After observing the column in the dataset and their importance in order to predict if it will rain tomorrow or not, we have to do the data prre processing and cleaning the data. Selecting the features from dataset that effect the model. 
-# Exploratory Data Analysis and Data Preprocessing using AI Platform
+## Exploratory Data Analysis and Data Preprocessing using AI Platform
 This part of the project will involve visualizing the dataset based on different features from the dataset.Creating graphs that analyze the importance of the columns.Distribution graph inferes observation on different locations according to the dataset. 
-# Dashboard for User group, Dashboard for Data Engineers
+## Dashboard for User group, Dashboard for Data Engineers
 Dashboard for user consists of basic graph that depicts rain fall prediction by yes or no. The aim is to convey simple imformation from correlated features to get the target variable.Dashboard for Data Engineers helps them predict the correlation between the features that affected the target result and understand the database.
-# Apply Logistic Regression Model on the dataset.
+## Apply Logistic Regression Model on the dataset.
 Creating Logistic Regression model and running the model on the dataset help to predict the output variable with high accuracy.
-# Evaluation of results using confusion matrix, precision, recall and f1-score
-# Steps for production model
+## Evaluation of results using confusion matrix, precision, recall and f1-score
+## Steps for production model
 The dataset will be read using BigQuery, then for every record, model prediction will be carried out, and the results are written back to BigQuery.
-# Final Dashboard for User Group
+## Final Dashboard for User Group
 The final dashboard will consist of predicted data in form of a graph and it will depict the results of the model.
 
 
 
-## References
+# References
 
 * S. Navadia, P. Yadav, J. Thomas and S. Shaikh, "Weather prediction: A novel approach for measuring and analyzing weather data," 2017 International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC), Palladam, 2017, pp. 414-417.
 
