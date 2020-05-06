@@ -83,3 +83,7 @@ The final dashboard will consist of predicted data in form of a graph and it wil
 * A. Omary, A. Wedyan, A. Zghoul, A. Banihani and I. Alsmadi, "An interactive predictive system for weather forecasting," 2012 International Conference on Computer, Information and Telecommunication Systems (CITS), Amman, 2012, pp. 1-4.
 
 * P. C. Reddy and A. S. Babu, "Survey on weather prediction using big data analystics," 2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT), Coimbatore, 2017, pp. 1-6.
+# Roles
+* Madhuri Pawle: Worked on data pre-processing after dealing with issues noticed in former processed data, Loading the data into BigQuery and creating the model and Final dashboard creation, updated few changes in git repository and presentation.
+* Hanumasri Bollepalli : Worked on data Pre-processing, evaluating the Machine Learning model, Predicting the model, updated git repository and presentation.
+
