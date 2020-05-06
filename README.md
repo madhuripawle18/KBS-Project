@@ -56,6 +56,12 @@ The final dashboard will consist of predicted data in form of a graph and it wil
 
 ![Image of user_dashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/user%20dashboard.png)
 
+![Image of Heatmap.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/Heatmap.png)
+
+![Image of Pairplot.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/Pairplot.png)
+
+![Image of Boxplot_to_detect_Outliers.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/Boxplot%20to%20detect%20Outliers.png)
+
 
 # References
 
