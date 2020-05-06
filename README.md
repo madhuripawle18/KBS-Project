@@ -40,24 +40,13 @@ The data cleaning steps that we are going to follow are :
 
 # Tentative Plan
 
-## Load data onto BigQuery
+### Load data onto BigQuery
 After observing the column in the dataset and their importance in order to predict if it will rain tomorrow or not, we have to do the data pre processing and cleaning the data. Selecting the features from dataset that effect the model. 
 
 ![Load Data in BigQuery.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Data%20in%20BigQuery.png)
 
-## Exploratory Data Analysis and Data Preprocessing using AI Platform
+### Exploratory Data Analysis and Data Preprocessing using AI Platform
 This part of the project will involve visualizing the dataset based on different features from the dataset.Creating graphs that analyze the importance of the columns.Distribution graph inferes observation on different locations according to the dataset. 
-## Dashboard for User group, Dashboard for Data Engineers
-Dashboard for user consists of basic graph that depicts rain fall prediction by yes or no. The aim is to convey simple imformation from correlated features to get the target variable.Dashboard for Data Engineers helps them predict the correlation between the features that affected the target result and understand the database.
-## Apply Logistic Regression Model on the dataset.
-Creating Logistic Regression model and running the model on the dataset help to predict the output variable with high accuracy.
-![Model in BigQuery 1.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20In%20BigQuery%201.png)
-![Model Data in BigQuery 2.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20in%20BigQuery%202.png)
-## Evaluation of results using confusion matrix, precision, recall and f1-score
-## Steps for production model
-The dataset will be read using BigQuery, then for every record, model prediction will be carried out, and the results are written back to BigQuery.
-## Final Dashboard for User Group
-The final dashboard will consist of predicted data in form of a graph and it will depict the results of the model.
 
 ![Image of Heatmap.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Heatmap.png)
 
@@ -65,6 +54,22 @@ The final dashboard will consist of predicted data in form of a graph and it wil
 
 ![Image of Boxplot_to_detect_Outliers.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Checking%20for%20Outliers.png)
 
+### Dashboard for User group, Dashboard for Data Engineers
+Dashboard for user consists of basic graph that depicts rain fall prediction by yes or no. The aim is to convey simple imformation from correlated features to get the target variable.Dashboard for Data Engineers helps them predict the correlation between the features that affected the target result and understand the database.
+
+### Apply Logistic Regression Model on the dataset.
+Creating Logistic Regression model and running the model on the dataset help to predict the output variable with high accuracy.
+
+![Model in BigQuery 1.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20In%20BigQuery%201.png)
+![Model Data in BigQuery 2.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20in%20BigQuery%202.png)
+
+### Evaluation of results using confusion matrix, precision, recall and f1-score
+
+### Steps for production model
+The dataset will be read using BigQuery, then for every record, model prediction will be carried out, and the results are written back to BigQuery.
+
+### Final Dashboard for User Group
+The final dashboard will consist of predicted data in form of a graph and it will depict the results of the model.
 
 # References
 
