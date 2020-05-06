@@ -54,6 +54,7 @@ The dataset will be read using BigQuery, then for every record, model prediction
 ## Final Dashboard for User Group
 The final dashboard will consist of predicted data in form of a graph and it will depict the results of the model.
 
+![Image of user_dashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/user%20dashboard.png)
 
 
 # References
