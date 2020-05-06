@@ -1,21 +1,21 @@
 # Predicting Rainfall in Australia
 
-# Group Members
+## Group Members
 * Hanumasri Bollepalli
 * Madhuri Pawle
 * Pavanitha Jampala
 
-# Research Question
+## Research Question
 
 Exploratory data analysis (EDA) will be used to visualize imporant trends in the data. EDA will also provide input into the need for feature pre-processing such as dimensionality reduction, null handling and feature scaling. The pre-processed data (pertinent features) will be used to analyze the research question: Will it rain tomorrow?
 
-# Source & Domain
+## Source & Domain
 
 * Domain: Weather forecasting. Precisely to predict whether it will rain tomorrow or not?
 
 * Source: Kaggle, https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 
-# About the Dataset
+## About the Dataset
 
 * This dataset contains about 10 years of daily weather observations from numerous Australian weather stations.
 
@@ -25,11 +25,11 @@ Exploratory data analysis (EDA) will be used to visualize imporant trends in the
 
 * The columns that effect the RainTomorrow column the most are Humidity3pm and Cloud3pm. 
 
-# Target Audience
+## Target Audience
 
 The target audience would be the general public of respective areas in Australia. The dataset consists of 49 locations so people living in those 49 locations can have the benifit of knowing if it will rain the next day or not and plan their day accordingly.
 
-# Data Preprocessing
+## Data Preprocessing
 
 The data cleaning steps that we are going to follow are :
 * Make sure the datatypes are correct.
@@ -38,7 +38,7 @@ The data cleaning steps that we are going to follow are :
 * Handle outlier using top-coding approach.
 * Encode Categorical data using One Hot Encoding as Logistic Regression cannot handle categorical data.
 
-# Tentative Plan
+## Tentative Plan
 
 ### Load data onto BigQuery
 After observing the column in the dataset and their importance in order to predict if it will rain tomorrow or not, we have to do the data pre processing and cleaning the data. Selecting the features from dataset that effect the model. 
@@ -75,7 +75,7 @@ Creating Logistic Regression model and running the model on the dataset help to 
 ![Evaluate Model.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20Evaluation.png)
 
 
-# References
+## References
 
 * S. Navadia, P. Yadav, J. Thomas and S. Shaikh, "Weather prediction: A novel approach for measuring and analyzing weather data," 2017 International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC), Palladam, 2017, pp. 414-417.
 
@@ -83,7 +83,8 @@ Creating Logistic Regression model and running the model on the dataset help to 
 
 * P. C. Reddy and A. S. Babu, "Survey on weather prediction using big data analystics," 2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT), Coimbatore, 2017, pp. 1-6.
 
-# Team Member Duties
+## Team Member Duties
+
 * Madhuri Pawle: Worked on Data Pre-processing after dealing with issues noticed in former processed data,Applied Machine learning models and Loaded the data into BigQuery and created the model. Also created Final dashboard and Visualizations, updated changes to git repository and presentation.
 
 * Hanumasri Bollepalli : Worked on Data Pre-processing, researched all the qwicklabs and reference papers to get an overview of working with BigQuery using Machine Learning models and evaluated the Machine Learning model and Predicting the model.Updated git repository, read.me file. Worked on Documentation and presentation.
