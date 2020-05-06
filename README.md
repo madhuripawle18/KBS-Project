@@ -56,7 +56,7 @@ The final dashboard will consist of predicted data in form of a graph and it wil
 
 
 
-## Refrences
+## References
 
 * S. Navadia, P. Yadav, J. Thomas and S. Shaikh, "Weather prediction: A novel approach for measuring and analyzing weather data," 2017 International Conference on I-SMAC (IoT in Social, Mobile, Analytics and Cloud) (I-SMAC), Palladam, 2017, pp. 414-417.
 
