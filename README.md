@@ -23,7 +23,6 @@ Exploratory data analysis (EDA) will be used to visualize imporant trends in the
 
 * It is an unbalanced dataset, as the target column RainTomorrow has 110316 "No" entries and 31877 "Yes" entries.
 
-* The columns that effect the RainTomorrow column the most are Humidity3pm and Cloud3pm. 
 
 ## Target Audience
 
