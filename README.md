@@ -60,7 +60,7 @@ This part of the project will involve visualizing the dataset based on different
 ### Dashboard for User group, Dashboard for Data Engineers
 Dashboard for user consists of basic graph that depicts rain fall prediction by yes or no. The aim is to convey simple imformation from correlated features to get the target variable.Dashboard for Data Engineers helps them predict the correlation between the features that affected the target result and understand the database.
 
-### Apply Logistic Regression Model on the dataset.
+### Train Logistic Regression Model on the dataset.
 Creating Logistic Regression model and running the model on the dataset help to predict the output variable with high accuracy.
 
 ![Model in BigQuery 1.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%201.png)
@@ -85,7 +85,20 @@ Creating Logistic Regression model and running the model on the dataset help to 
 
 ## Team Member Duties
 
-* Madhuri Pawle: Worked on Data Pre-processing after dealing with issues noticed in former processed data,Applied Machine learning models and Loaded the data into BigQuery and created the model. Also created Final dashboard and Visualizations, updated changes to git repository and presentation.
+* Madhuri Pawle: 
+- Loaded the data into BigQuery
+- Worked on Data Pre-processing
+- Trained Logistic Regression model
+- Evaluated the model.
 
-* Hanumasri Bollepalli : Worked on Data Pre-processing, researched all the qwicklabs and reference papers to get an overview of working with BigQuery using Machine Learning models and evaluated the Machine Learning model and Predicting the model.Updated git repository, read.me file and presentation.
+* Hanumasri Bollepalli : 
+- Worked on Data Pre-processing
+- Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
+- Worked on the documentation.
+- Worked on the presentation.
+
+* Pavanitha Jampala : 
+- Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
+- Worked on the documentation.
+- Worked on the presentation.
 
