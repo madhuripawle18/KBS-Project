@@ -66,7 +66,7 @@ Creating Logistic Regression model and running the model on the dataset help to 
 ![Model in BigQuery 1.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%201.png)
 ![Model Data in BigQuery 2.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%202.png)
 
-### Evaluation of results using confusion matrix, precision, recall and f1-score
+### Evaluation of results using  accuracy, precision, recall f1-score and roc curve
 
 ![Evaluate Model.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20Evaluation.png)
 
