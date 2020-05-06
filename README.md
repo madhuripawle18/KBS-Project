@@ -41,7 +41,7 @@ The data cleaning steps that we are going to follow are :
 # Tentative Plan
 
 ## Load data onto BigQuery
-After observing the column in the dataset and their importance in order to predict if it will rain tomorrow or not, we have to do the data prre processing and cleaning the data. Selecting the features from dataset that effect the model. 
+After observing the column in the dataset and their importance in order to predict if it will rain tomorrow or not, we have to do the data pre processing and cleaning the data. Selecting the features from dataset that effect the model. 
 ## Exploratory Data Analysis and Data Preprocessing using AI Platform
 This part of the project will involve visualizing the dataset based on different features from the dataset.Creating graphs that analyze the importance of the columns.Distribution graph inferes observation on different locations according to the dataset. 
 ## Dashboard for User group, Dashboard for Data Engineers
