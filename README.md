@@ -84,6 +84,7 @@ The final dashboard will consist of predicted data in form of a graph and it wil
 
 * P. C. Reddy and A. S. Babu, "Survey on weather prediction using big data analystics," 2017 Second International Conference on Electrical, Computer and Communication Technologies (ICECCT), Coimbatore, 2017, pp. 1-6.
 # Team Member Duties
-* Madhuri Pawle: Worked on Data Pre-processing after dealing with issues noticed in former processed data, Loading the data into BigQuery and creating the model and Final dashboard creation and Visualizations, updated few changes in git repository and presentation.
+* Madhuri Pawle: Worked on Data Pre-processing after dealing with issues noticed in former processed data,Applied Machine learning models and Loaded the data into BigQuery and created the model. Also created Final dashboard and Visualizations, updated changes to git repository and presentation.
+
 * Hanumasri Bollepalli : Worked on Data Pre-processing, researched all the qwicklabs and reference papers to get an overview of working with BigQuery using Machine Learning models and evaluated the Machine Learning model and Predicting the model.Updated git repository, read.me file. Worked on Documentation and presentation.
 
