@@ -62,6 +62,9 @@ The final dashboard will consist of predicted data in form of a graph and it wil
 
 ![Image of Boxplot_to_detect_Outliers.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/Boxplot%20to%20detect%20Outliers.png)
 
+![Image of rainfall_in_locations,jpg](https://github.com/hanumasribollepalli/KBS-Project/blob/master/rainfall_in_locations.jpg)
+
+![Image of rainpredictionyr.jpg](https://github.com/hanumasribollepalli/KBS-Project/blob/master/rainpredictionyr.jpg)
 
 # References
 
