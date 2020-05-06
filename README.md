@@ -66,15 +66,14 @@ Creating Logistic Regression model and running the model on the dataset help to 
 ![Model in BigQuery 1.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%201.png)
 ![Model Data in BigQuery 2.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%202.png)
 
+### Make predictions using the testing data
+
+![Predictions.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Predicting%20Using%20Model.png)
+
 ### Evaluation of results using  accuracy, precision, recall f1-score and roc curve
 
 ![Evaluate Model.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20Evaluation.png)
 
-### Steps for production model
-The dataset will be read using BigQuery, then for every record, model prediction will be carried out, and the results are written back to BigQuery.
-
-### Final Dashboard for User Group
-The final dashboard will consist of predicted data in form of a graph and it will depict the results of the model.
 
 # References
 
