@@ -70,7 +70,9 @@ This part of the project will involve visualizing the dataset based on different
 ![Image of Boxplot_to_detect_Outliers.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Checking%20for%20Outliers.png)
 
 ### Dashboard for User group, Dashboard for Data Engineers
-Dashboard for user consists of basic graph that depicts rain fall prediction by yes or no. The aim is to convey simple imformation from correlated features to get the target variable.Dashboard for Data Engineers helps them predict the correlation between the features that affected the target result and understand the database.
+Visualize numerical and categorical data in Data Studio for EDA.
+![Dashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Dashboard.png)
+
 
 ### Train Logistic Regression Model on the dataset.
 Creating Logistic Regression model and running the model on the dataset help to predict the output variable with high accuracy.
