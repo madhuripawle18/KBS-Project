@@ -69,7 +69,10 @@ This part of the project will involve visualizing the dataset based on different
 **The below image shows the boxplots used to detect outliers in the Australian Weather Dataset**
 ![Image of Boxplot_to_detect_Outliers.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Checking%20for%20Outliers.png)
 
-### Dashboard for User group, Dashboard for Data Engineers
+### Dashboard for User group
+![Image of User_Dashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/UserDashboard.PNG)
+
+### Dashboard for Data Engineers
 Visualize numerical and categorical data in Data Studio for EDA.
 ![Dashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Dashboard.png)
 
