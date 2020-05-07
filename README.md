@@ -70,7 +70,7 @@ This part of the project will involve visualizing the dataset based on different
 ![Image of Boxplot_to_detect_Outliers.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Checking%20for%20Outliers.png)
 
 ### Dashboard for User group
-![Image of User_Dashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/UserDashboard.PNG)
+![Image of UserDashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/Dashboards/UserDashboard.PNG)
 
 ### Dashboard for Data Engineers
 Visualize numerical and categorical data in Data Studio for EDA.
