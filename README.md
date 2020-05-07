@@ -9,10 +9,11 @@
 - Evaluated the model.
 
 **Hanumasri Bollepalli:** 
-- Worked on Data Pre-processing and creating the Dashboard
+- Created github repository and researched about the dataset and framed research question.
+- Performed Pre-processing on the dataset and created the Dashboard using DataStudio
 - Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
-- Worked on the documentation.
-- Worked on the presentation.
+- Worked on Evaluation and Prediction of model.
+- Worked on the documentation and presentation.
 
 **Pavanitha Jampala:** 
 - Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
