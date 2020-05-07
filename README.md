@@ -9,7 +9,7 @@
 - Evaluated the model.
 
 **Hanumasri Bollepalli:** 
-- Worked on Data Pre-processing
+- Worked on Data Pre-processing and creating the Dashboard
 - Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
 - Worked on the documentation.
 - Worked on the presentation.
