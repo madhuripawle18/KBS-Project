@@ -74,7 +74,7 @@ This part of the project will involve visualizing the dataset based on different
 
 ### Dashboard for Data Engineers
 Visualize numerical and categorical data in Data Studio for EDA.
-![Dashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Dashboard.png)
+![Image of Data_Engineer_Dashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/Dashboards/Data%20Engineer%20Dashboard.png)
 
 
 ### Train Logistic Regression Model on the dataset.
