@@ -1,24 +1,12 @@
 # Predicting Rainfall in Australia
 
-## Group Members and their duties
-
-**Madhuri Pawle:** 
+**Hanumasri Bollepalli:** 
+- Created github repository and researched about the dataset and framed research question.
 - Loaded the data into BigQuery
 - Worked on Data Pre-processing
 - Trained Logistic Regression model
 - Evaluated the model.
 
-**Hanumasri Bollepalli:** 
-- Created github repository and researched about the dataset and framed research question.
-- Performed Pre-processing on the dataset and created the Dashboard using DataStudio
-- Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
-- Worked on Evaluation and Prediction of model.
-- Worked on the documentation and presentation.
-
-**Pavanitha Jampala:** 
-- Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
-- Worked on the documentation.
-- Worked on the presentation.
 ## Research Question
 
 Exploratory data analysis (EDA) will be used to visualize imporant trends in the data. EDA will also provide input into the need for feature pre-processing such as dimensionality reduction, null handling and feature scaling. The pre-processed data (pertinent features) will be used to analyze the research question: Will it rain tomorrow?
