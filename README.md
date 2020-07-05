@@ -56,41 +56,41 @@ The data cleaning steps that we are going to follow are :
 ### Load data onto BigQuery
 After observing the column in the dataset and their importance in order to predict if it will rain tomorrow or not, we have to do the data pre processing and cleaning the data. Selecting the features from dataset that effect the model. 
 
-![Load Data in BigQuery.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Data%20in%20BigQuery.png)
+![Load Data in BigQuery.png](https://github.com/madhuripawle18/KBS-Project/blob/master/images/Data%20in%20BigQuery.png)
 
 ### Exploratory Data Analysis and Data Preprocessing using AI Platform
 This part of the project will involve visualizing the dataset based on different features from the dataset.Creating graphs that analyze the importance of the columns.Distribution graph inferes observation on different locations according to the dataset. 
 
 **The below image shows the correlation between each variable in the Australian Weather Dataset**
-![Image of Heatmap.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Heatmap.png)
+![Image of Heatmap.png](https://github.com/madhuripawle18/KBS-Project/blob/master/images/Heatmap.png)
 
 **The below image shows the correlation between numerical variables in the Australian Weather Dataset**
-![Image of Pairplot.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Pairplot.png)
+![Image of Pairplot.png](https://github.com/madhuripawle18/KBS-Project/blob/master/images/Pairplot.png)
 
 **The below image shows the boxplots used to detect outliers in the Australian Weather Dataset**
-![Image of Boxplot_to_detect_Outliers.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Checking%20for%20Outliers.png)
+![Image of Boxplot_to_detect_Outliers.png](https://github.com/madhuripawle18/KBS-Project/blob/master/images/Checking%20for%20Outliers.png)
 
 ### Dashboard for User group
-![Image of UserDashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/Dashboards/UserDashboard.PNG)
+![Image of UserDashboard.png](https://github.com/madhuripawle18/KBS-Project/blob/master/Dashboards/UserDashboard.PNG)
 
 ### Dashboard for Data Engineers
 Visualize numerical and categorical data in Data Studio for EDA.
-![Image of Data_Engineer_Dashboard.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/Dashboards/Data%20Engineer%20Dashboard.png)
+![Image of Data_Engineer_Dashboard.png](https://github.com/madhuripawle18/KBS-Project/blob/master/Dashboards/Data%20Engineer%20Dashboard.png)
 
 
 ### Train Logistic Regression Model on the dataset.
 Creating Logistic Regression model and running the model on the dataset help to predict the output variable with high accuracy.
 
-![Model in BigQuery 1.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%201.png)
-![Model Data in BigQuery 2.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%202.png)
+![Model in BigQuery 1.png](https://github.com/madhuripawle18/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%201.png)
+![Model Data in BigQuery 2.png](https://github.com/madhuripawle18/KBS-Project/blob/master/images/Logistic%20Regression%20Model%20in%20BigQuery%202.png)
 
 ### Make predictions using the testing data
 
-![Predictions.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Predictions.png)
+![Predictions.png](https://github.com/madhuripawle18/KBS-Project/blob/master/images/Predictions.png)
 
 ### Evaluation of results using  accuracy, precision, recall, f1-score and roc curve
 
-![Evaluate Model.png](https://github.com/hanumasribollepalli/KBS-Project/blob/master/images/Model%20Evaluation.png)
+![Evaluate Model.png](https://github.com/madhuripawle18/KBS-Project/blob/master/images/Model%20Evaluation.png)
 
 
 ## References
