@@ -3,6 +3,7 @@
 ## Group Members and their duties
 
 **Madhuri Pawle:** 
+- Performed Pre-processing on the dataset and created the Dashboard using DataStudio
 - Loaded the data into BigQuery
 - Worked on Data Pre-processing
 - Trained Logistic Regression model
@@ -10,9 +11,7 @@
 
 **Hanumasri Bollepalli:** 
 - Created github repository and researched about the dataset and framed research question.
-- Performed Pre-processing on the dataset and created the Dashboard using DataStudio
 - Researched all the qwicklabs and reference papers to get an overview of working with BigQuery.
-- Worked on Evaluation and Prediction of model.
 - Worked on the documentation and presentation.
 
 **Pavanitha Jampala:** 
